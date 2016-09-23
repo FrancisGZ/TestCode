@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--<link rel="stylesheet" href="css/font-awesome.min.css">
+<link href="css/bootstrap.min.css" rel="stylesheet"> 
+<link href="css/bootstrap-theme.min.css" rel="stylesheet"> 
+<link href="css/bootstrap-social.css" rel="stylesheet" >
+<script src="js/jquery-3.1.0.min.js"></script>   
+<script src="js/bootstrap.min.js"></script> -->
+
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="http://www.fertilab.com.mx/Sitio/css/bootstrap.min.css" rel="stylesheet"> 
+<link href="http://www.fertilab.com.mx/Sitio/css/bootstrap-theme.min.css" rel="stylesheet"> 
+<link href="http://www.fertilab.com.mx/Sitio/css/bootstrap-social.css" rel="stylesheet">    
+<script src="http://www.fertilab.com.mx/Sitio/js/jquery-1.11.3.min.js"></script>   
+<script src="http://www.fertilab.com.mx/Sitio/js/bootstrap.min.js"></script>  
+   
+    
+     
+  
+       
+	<title></title>
+
+
+</head>
+<body>
+
+
+
+ <p style="text-align:center;"><b>Compartir en Redes sociales</b>
+                    	<br>
+                        <!-- Facebook -->
+                        <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.proain.com/NotasTecnicas/importancia-del-boro-en-la-agricultura.html" target="_blank">
+    					<i class="fa fa-facebook"></i>
+                        </a>
+                    	<!-- Twitter -->                        
+                        <a class="btn btn-social-icon btn-twitter" href="https://twitter.com/?status=Importancia del Boro en la Agricultura %c3%a1 http://goo.gl/dMj8aL" target="_blank">
+    					<i class="fa fa-twitter"></i>
+                        </a>
+                        <!-- Google+ -->
+                        <a class="btn btn-social-icon btn-google" href="https://plus.google.com/share?url=http://www.proain.com/NotasTecnicas/importancia-del-boro-en-la-agricultura.html" target="_blank">
+    					<i class="fa fa-google-plus"></i>
+                        </a>
+                        
+                        <!-- Linkedin -->
+                        <a class="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.proain.com/NotasTecnicas/importancia-del-boro-en-la-agricultura.html" target="_blank">
+    					<i class="fa fa-linkedin"></i>
+                        </a>
+                        <a class="btn btn-social-icon btn-pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.proain.com/NotasTecnicas/importancia-del-boro-en-la-agricultura.html&media=http://www.proain.com/NotasTecnicas/importancia-del-boro-en-la-agricultura/importancia-del-boro-en-la-agricultura.jpg&description=El boro es esencial para el crecimiento normal de las plantas, ya que promueve la divisi%c3%b3n celular, la elongaci%c3%b3n de c%c3%a9lulas, la fuerza de la pared celular, la polinizaci%c3%b3n, floraci%c3%b3n" target="_blank">
+    					<i class="fa fa-pinterest"></i>
+                        </a>   
+                    </p>
+
+
+</body>
+</html>
